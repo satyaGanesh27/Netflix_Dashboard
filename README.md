@@ -78,4 +78,4 @@ To deliver an interactive visualization tool that:
 ---
 
 7. 📸 Dashboard Preview
-![Netflix Dashboard]()
+![Netflix Dashboard](https://github.com/satyaGanesh27/Netflix_Dashboard/blob/main/Netflix.pdf)
